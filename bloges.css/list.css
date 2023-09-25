@@ -1,0 +1,10 @@
+li{
+	color: aqua;
+}
+header{
+	height: 500;
+}
+ul li{
+	color: purple;
+	display: inline;
+}
